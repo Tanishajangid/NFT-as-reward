@@ -24,3 +24,7 @@ To create a transparent, secure, and verifiable recognition system that acknowle
 ## Contract Address:
 0xd0a08D1e0f6643503e8b3c9C9c3ab760A7f9B08A
 ![image](https://github.com/user-attachments/assets/299ad3ae-d126-467d-8257-4d62fe9cfc59)
+
+## User Interface:
+![Screenshot 2025-03-21 121747](https://github.com/user-attachments/assets/a204384a-61cf-40eb-bc95-a1b774bf7048)
+
